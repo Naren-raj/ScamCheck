@@ -1,0 +1,5 @@
+com\scamcheck\ArchitectureDataFlowTest.class
+com\scamcheck\EndToEndAnalysisTest.class
+com\scamcheck\IOCExtractionServiceTest.class
+com\scamcheck\RiskServiceTest.class
+com\scamcheck\DomainSimilarityServiceTest.class
